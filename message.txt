@@ -1,0 +1,7 @@
+Dear $PERSON_NAME , 
+
+This is a test message. 
+This message is sent by Python script.
+Have a great Monday! 
+
+Yours Ayush Sahu
