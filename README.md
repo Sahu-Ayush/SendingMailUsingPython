@@ -1,2 +1,2 @@
 # SendingMailUsingPython
-We send bulk of email via pyhton script
+We can send bulk of email with aatachment using pyhton script
